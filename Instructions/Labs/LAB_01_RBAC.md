@@ -126,7 +126,7 @@ In this task, you will create a user account for Isabel Garcia by using PowerShe
 1. In the PowerShell session within the Cloud Shell pane, run the following to identify the name of your Azure AD tenant: 
 
     ```powershell
-    $domainName = ((Get-AzureAdTenantDetail).VerifiedDomains)[0].Name
+    $domainName = ((Get-AzureADTenantDetail).VerifiedDomains)[0].Name
     ```
 
 1. In the PowerShell session within the Cloud Shell pane, run the following to create a user account for Isabel Garcia: 
