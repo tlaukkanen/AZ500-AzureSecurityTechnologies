@@ -459,7 +459,7 @@ In this task, you will configure a sign-in risk policy.
 
    - Click **Users**; on the **Include** tab of the **Users** blade, ensure that the **All users** option is selected.
 
-   - Click **Sign-in risk**; on the **Sign-in risk** blade, select **Medium and above**, click **Select, and then click **Done**. 
+   - Click **Sign-in risk**; on the **Sign-in risk** blade, select **Medium and above**, click **Select**, and then click **Done**. 
 
    - Click **Access**; on the **Access** blade, ensure that the **Allow access** option and the **Require multi-factor authentication** checkbox are selected and click **Done**.
 
