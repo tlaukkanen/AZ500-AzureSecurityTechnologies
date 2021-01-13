@@ -294,7 +294,7 @@ The ARM-template deployment in Exercise 1 provisioned an Azure SQL Server instan
 
 1. In the Azure portal, in the **Search resources, services, and docs** text box at the top of the Azure portal page, type **SQL databases** and press the **Enter** key.
 
-1. In the list of SQL databases, click the **medical(<randomsqlservername>)** entry.
+1. In the list of SQL databases, click the **medical\(\<randomsqlservername\>\)** entry.
 
     >**Note**: If the database cannot be found, this likely means the deployment you initiated in Exercise 1 has not completed yet. You can validate this by browsing to the Azure Resource Group "AZ500LAB10" (or the name you chose), and selecting **Deployments** from the Settings pane.  
 
