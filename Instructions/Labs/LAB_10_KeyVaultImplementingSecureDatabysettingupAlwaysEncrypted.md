@@ -241,7 +241,7 @@ In this task, you will enable a client application to access the Azure SQL Datab
 
 1. On the **sqlApp** blade, in the **Manage** section, click **Certificates & secrets**.
 
-1. On the **sqlApp | Certificates & secrets** blade / **Client Secrets** section, click **+ New client secret**
+1. On the **sqlApp \| Certificates & secrets** blade / **Client Secrets** section, click **+ New client secret**
 
 1. In the **Add a client secret** pane, specify the following settings:
 
